@@ -75,7 +75,7 @@
         <logback-classic.version>0.9.28</logback-classic.version>
         <javaee-api.version>7.0</javaee-api.version>
         <junit.version>4.8.2</junit.version>
-        <quartz.version>1.8.4</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <jcaptcha-all.version>1.0-RC6</jcaptcha-all.version>
         <sigar.version>1.6.4</sigar.version>        
         <cxf.version>2.7.3</cxf.version>
